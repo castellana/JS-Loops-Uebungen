@@ -11,7 +11,7 @@
 
 //EJERCICIO Lev1_1 FOR loop Hello World
 // Schreibe eine for-Schleife. 
-// Sie soll genau 10 mal in der Konsole “Hello World + Nummer” ausgeben soll.
+// Sie soll genau 10 mal in der Konsole “Hello World + Nummer” ausgeben soll. 
 for (i=1; i<= 10; i++) {
     console.log("Hello world" + i);
 }
